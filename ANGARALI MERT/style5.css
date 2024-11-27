@@ -1,0 +1,50 @@
+.kapsa{
+  background-color: #ebba0f;
+  text-align: center;
+  height: 100px;
+  height: 100px;
+  color: whitesmoke;
+ }
+ .k1{
+   text-align: center;
+ }
+ a{
+   text-decoration: none;
+   font-size: 2vw;
+   width: 10vw;
+   display:inline block;
+   color: white;
+   text-align: center;
+   }
+ 
+ .kapsa2{display: flex; flex-wrap: wrap;background-color: black;}
+ 
+ .resim {
+  margin: 10px;
+  flex-grow: 1;
+}
+ .resim img {
+  width: 100%;
+  height: auto;
+}
+ .kapsa4{
+   margin: 10px;
+   border: 2px solid gray;
+   display: flex; flex-wrap: wrap;
+   
+ }
+ h1{
+   color: red;
+ }
+ .flexden {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.kapsa3 {
+  flex-basis: 30%; 
+  margin: 5px;
+  border: 2px solid gray;
+  display: flex;
+  flex-direction: column; 
+}

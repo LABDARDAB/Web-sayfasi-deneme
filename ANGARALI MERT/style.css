@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(217, 22, 86);
+}
+a{
+text-decoration: none;
+color: #63C59B;
+font-size: 2vw;
+border: 2px solid #FCEE70;
+width: 10vw;
+display:inline block;
+text-align: center;
+}
+a:hover{
+  background-color: #dd2919;
+}
+.k1{
+  border: 3px dashed #0c3047;
+ text-align: center;
+ margin: 20px;
+ padding: 10px;
+}
+.k1 img{
+  width: 20vw;
+  
+}
+.kapsa{display: flex; flex-wrap: wrap;}
+.kapsa2{display: flex; flex-wrap: wrap;}
